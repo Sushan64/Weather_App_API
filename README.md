@@ -1,4 +1,4 @@
-# Weather-app-api
+# Weather App API
 
 A simple weather app that fetches real-time weather data for a user-specified city using the OpenWeather API. The app displays current temperature, "feels like" temperature, wind speed and direction, and a brief weather description.
 
